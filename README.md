@@ -2,4 +2,4 @@
 
 #Crud do P.I no react:
 
-Link : https://snack.expo.dev/@italodasilva.ds/crud-pi
+Link para visualizar no expo.dev : https://snack.expo.dev/@italodasilva.ds/crud-pi
